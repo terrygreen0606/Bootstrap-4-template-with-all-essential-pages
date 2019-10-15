@@ -5,6 +5,7 @@
 	Description: BizCraft Responsive HTML5/CSS3 Template.
 	Version: 1.0
 */
+
 /* Table of Content
 ==================================================
 1.	Global Styles
@@ -31,6 +32,7 @@
 22. Blog
 23. Landing page
 24.	Style Swithcer (you can delete the css) */
+
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900);
 @font-face {
   font-family: 'JaapokkiRegular';
